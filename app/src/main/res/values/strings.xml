@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="txt_top">Silahkan login untuk memulai</string>
+    <string name="txt_email">Email</string>
+</resources>
